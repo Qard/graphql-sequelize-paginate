@@ -1,0 +1,23 @@
+{
+  "name": "graphql-sequelize-paginate",
+  "version": "1.0.0",
+  "description": "Graphql pagination resolver for sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "graphql",
+    "sequelize",
+    "pagination"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^10.3.0"
+  },
+  "dependencies": {
+    "graphql-page": "^1.0.1",
+    "validate-graphql-page-args": "^1.0.1"
+  }
+}
