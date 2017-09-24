@@ -1,5 +1,7 @@
 # graphql-sequelize-paginate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/graphql-sequelize-paginate.svg)](https://greenkeeper.io/)
+
 Paginated finder to sequelize which produces graphql connection pages.
 
 ## Install
